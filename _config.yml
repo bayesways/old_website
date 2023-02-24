@@ -33,7 +33,7 @@ header_pages:
   - index.md
   - about.md
 
-style: light
+style: dark
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
