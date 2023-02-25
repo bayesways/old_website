@@ -31,7 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
   - about.md
-  - blog.md
+  - index.md
   - math-club.md
 
 style: dark

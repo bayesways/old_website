@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /math-club
-permalink: /math-club/
+permalink: /math-club
 ---
 
 Home to the world famous math club, a book club for math books.
