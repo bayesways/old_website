@@ -62,7 +62,7 @@ Data Scientist
 
  -  <b>Case Study in Stan: Assessing the Safety of Rosiglitazone for the Treatment of Type 2 Diabetes</b>
     K. Vamvourellis, K. Kalogeropoulos, L. Phillips    
-    Proceedings StanCon 2018 <a href="https://docs.google.com/viewer?url=https://github.com/bayesways/bayesways.github.io/raw/master/pubs/rosi.html" target="_blank">[html]</a>  <a href="https://doi.org/10.5281/zenodo.1285274" target="_blank">[DOI]</a>  
+    Proceedings StanCon 2018  <a href="https://doi.org/10.5281/zenodo.1285274" target="_blank">[pdf]</a>  
   
  -  <b>Algebraic (trapdoor) one-way functions: Constructions and applications.</b>
     Catalano, D., Fiore, D., Gennaro, R. and Vamvourellis, K., 2015.
@@ -102,7 +102,7 @@ Data Scientist
     Social Statistics Seminar, LSE (Nov 2017) 
 
 
-    Poster Session <a href="http://www.stochastics.gr/meetings/iota/index.html" target="_blank">[Greek Stochastics]</a>  \\iota, Milos, Greece (July 2017) <a href="https://docs.google.com/viewer?url=https://github.com/bayesways/bayesways.github.io/raw/master/talkfileslkfiles/GreekStochastics17/stochastics_poster.pdf" target="_blank">[poster]</a> 
+    Poster Session <a href="http://www.stochastics.gr/meetings/iota/index.html" target="_blank">[Greek Stochastics]</a>  \\iota, Milos, Greece (July 2017) <a href="https://docs.google.com/viewer?url=https://github.com/bayesways/bayesways.github.io/raw/master/talkfiles/GreekStochastics17/stochastics_poster.pdf" target="_blank">[poster]</a> 
 
 
 </p>
