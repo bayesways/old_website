@@ -9,7 +9,7 @@ Home to the world famous math club, a book club for math books.
 __Now in session!!__
 
 
-<details><summary>Posts in category "math club" are:</summary>
+<details><summary>See here all relevant posts</summary>
 <ul>
   {% for post in site.categories.math-club %}
     {% if post.url %}
