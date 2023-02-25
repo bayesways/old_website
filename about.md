@@ -7,6 +7,7 @@ permalink: /about/
 Konstantinos Vamvourellis
 Data Scientist
 
+<a href="bayesways.github.io/pubs/scipy.pdf" target="_blank">PDF.</a>
 
 <details><summary>Academic Bio</summary>
 <p>
