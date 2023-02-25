@@ -14,13 +14,10 @@ Data Scientist
  - M.S. Mathematics, The Courant Institute, NYU (2013)   
  - B.S. Mathematics, Imperial College London (2011)   
 
-
 <b>Research Interests</b>     
  - Applied Statistics
  - Bayesian Inference and Modeling
  - Latent Variable Models
-
- 
 
 <b>Experience</b>      
  - Research Scientist, Vencore Labs,  <a href="https://www.darpa.mil/program/probabilistic-programming-for-advancing-machine-learning" target="_blank">[PPAML]</a> (2014-16)    
@@ -35,7 +32,6 @@ Data Scientist
  - git
  - linux
  - AWS
-
 
 <b>Teaching</b>
  - Intro to Calculus, NYU
