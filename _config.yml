@@ -23,13 +23,13 @@ email: vabour@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   a website with info about me and my interests
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "bayesways.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 header_pages:
   - about.md
-  - blog.md
+  - index.md
   - math-club.md
 
 style: dark
